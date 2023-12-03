@@ -1,21 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.e72596b7.css",
-    "main.js": "/static/js/main.e20c3f43.js",
+    "main.js": "/static/js/main.8e5de76a.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/profile.jpg": "/static/media/profile.a7c79d4c5ca3045cb609.jpg",
     "static/media/note.jpg": "/static/media/note.86237005d94c97fd5dc5.jpg",
+    "static/media/pokedex.png": "/static/media/pokedex.b00c3efbd3db295e9dad.png",
+    "static/media/potz.png": "/static/media/potz.128b7a4d4a81c1efd5ba.png",
     "static/media/minesweeper.png": "/static/media/minesweeper.f1c79faa7518edaa5fc9.png",
     "static/media/puppedia.jpg": "/static/media/puppedia.f7e010529cd5582e3d96.jpg",
     "static/media/appinventor.png": "/static/media/appinventor.19f762a7cb4cd51dac4d.png",
     "static/media/unitconverter.png": "/static/media/unitconverter.88d2f5673f1bb2b7243b.png",
     "index.html": "/index.html",
     "main.e72596b7.css.map": "/static/css/main.e72596b7.css.map",
-    "main.e20c3f43.js.map": "/static/js/main.e20c3f43.js.map",
+    "main.8e5de76a.js.map": "/static/js/main.8e5de76a.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e72596b7.css",
-    "static/js/main.e20c3f43.js"
+    "static/js/main.8e5de76a.js"
   ]
 }
